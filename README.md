@@ -4,8 +4,10 @@ and head honcho at [Thronebutt](https://github.com/thronebutt) by night.
 ## currently active
 
 - [❣️ dotfiles](https://github.com/crescentrose/dotfiles)
+- [📚 blog](https://crescentro.se), most recently:
+  -  [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
+  -  [When is a Rust function "unsafe"?](https://crescentro.se/posts/when-unsafe/)
 - [🦊 tolerable Discord](https://github.com/crescentrose/tolerable-discord) for Firefox
-- $DAYJOB and $NIGHTJOB not included here (yet!)
 
 ## experiments
 
